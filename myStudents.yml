@@ -1,0 +1,22 @@
+---
+- Students:
+  - name: anil
+    phno: 89898989
+    address:
+      streetno: 01
+      doorno: 234
+      PinCode: 500045
+ 
+  - name: sunil
+    phno: 89898989
+    address:
+        streetno: 01
+        doorno: 234
+        PinCode: 500045
+
+  - name: venil 
+    phno: 89898989
+    address:
+         streetno: 01
+         doorno: 234
+         PinCode: 500045
