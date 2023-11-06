@@ -1,9 +1,8 @@
 --- 
 - hosts: all 
-  become: yes 
+  become: yes
   tasks:
-  - name: i want to install webserver on ubuntu nodes
-    apt: 
+  - name: install webserver on ubuntu
+    apt:
       name: apache2 
-      state: present 
-      
+      state: present
