@@ -16,7 +16,7 @@
   - name: i want to install webserver on RedHat 
     dnf:
       name: httpd
-      sate: present
+      state: present
     when: ansible_os_family =="RedHat"
 
   - name: i want start to webserver on RedHat
