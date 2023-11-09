@@ -2,6 +2,6 @@
 var: value
 mywebpackonubuntu: apache2
 mywebpackonredhat: httpd
-myjavapackageonubuntu: openjdk-8-jdk 
-myjavapackageonredhat: java-1.8.0-openjdk
+myjavapackageonubuntu: openjdk-11-jdk 
+myjavapackageonredhat: java-11-openjdk-devel
 
